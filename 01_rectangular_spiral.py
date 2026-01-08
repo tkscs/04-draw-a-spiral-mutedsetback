@@ -37,7 +37,6 @@ turtle.forward(150)
 turtle.right(90)
 
 
-
 ### YOUR CODE ENDS HERE
 
 turtle.exitonclick()
