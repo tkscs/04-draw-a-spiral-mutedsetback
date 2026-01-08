@@ -26,6 +26,11 @@ The turtle starts at position(0, 0) with heading 0 degrees.
 
 ### YOUR CODE STARTS HERE
 
+for i in range(1, 500):
+    total_degrees = i * 15
+    turtle.forward (0.005*phi**(total_degrees/90))
+
+    turtle.left(15)
 
 ### YOUR CODE ENDS HERE
 
